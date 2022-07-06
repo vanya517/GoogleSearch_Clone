@@ -18,7 +18,7 @@ function App() {
               <Route exact path="/search" element={ <SearchPage/>} />
      
       
-             <Route exact path="/" element={ <Home/> }/>
+             <Route exact path="/GoogleSearch_Clone" element={ <Home/> }/>
       </Routes>
     </BrowserRouter>
      

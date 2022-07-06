@@ -22,8 +22,8 @@ console.log(data)
     return (
         <div className="searchPage">
           <div className="searchPage_header">
-            <Link to="/">
-              <img src="https://techcrunch.com/wp-content/uploads/2015/10/screen-shot-2015-10-08-at-4-20-16-pm.png" alt=" " />
+            <Link to="/GoogleSearch_Clone">
+              <img src="https://techcrunch.com/wp-content/uploads/2015/10/screen-shot-2015-10-08-at-4-20-16-pm.png" alt="googleImage" />
             </Link>
 
             <div className="searchPage_headerBody">
